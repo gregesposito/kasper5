@@ -1,0 +1,27 @@
+	/* Start - Dump CLI Variables - DEBUG */
+
+ //  cout << "argc = " << argc << endl; 
+ //  for(int i = 0; i < argc; i++) 
+//      cout << "argv[" << i << "] = " << argv[i] << endl; 
+//        std::string word = argv[1];
+
+	/* End - Dump CLI Variables - DEBUG */
+
+
+		 //int linecount = 0; // caps at 2,147,483,647
+
+//Output MD5 Hash
+
+//    char mdString[33];
+//   for(int i = 0; i < 16; i++)
+//      sprintf(&mdString[i*2], "%02x", (unsigned int)digest[i]);
+//   printf("md5 digest: %s\n", mdString);
+//	    char mdString2[33];
+
+// Output MD5 Raw Hash
+
+//        std::cout << digest[0]<< digest[1]<< digest[2]<< digest[3]<< digest[4];
+
+
+
+Put the VC directory in linker to clear out error
