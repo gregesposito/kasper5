@@ -3,6 +3,8 @@
 #include <stdio.h>
 #include <string.h>
 #include <openssl/md5.h>
+// https://slproweb.com/products/Win32OpenSSL.html
+// https://stackoverflow.com/questions/55476623/cannot-find-libeay32-lib-and-ssleay32-lib-files-when-setting-up-openssl-on-windo
 #include <iostream>
 #include <iomanip>      // std::setprecision
 #include <ctime>
